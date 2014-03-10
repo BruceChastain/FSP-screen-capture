@@ -8,24 +8,23 @@ The goal of FSP screen capture is to provide a simple and super fast screen capt
 
 Installation:
 
-FSP screen capture is avaliable for Linux and Windows. For Linux you just get the single Python file. For Windows there is a complied .exe so that Windows users don't have to installed Python.
+FSP screen capture is avaliable for Linux and Windows. For Linux you just get the single Python file. For Windows there is a complied .exe and supporting files.
 
   Linux:
-  -Extract the “FSP screen capture.gz” to the location which you want to run the application from. My suggestion is    
+  -Place the "FSP screen capture" where you want to run the application from. My suggestion is    
   somewhere in the home directory so there will be no problems about write permissions when running the application.
-  -Install the somethingsomething library for python apt-get install somethingsomething
   
   Windows:
   -Extract the “FSP screen capture.zip” file to the location you want to run the application from for example in “my 
   documents”.
-  -To the tool easier to use, right click on “FSP screen capture.exe” and select “send shortcut to desktop. Now you can 
-  launch it from the desktop. To make it even easier drag that shortcut to the task bar. Now you can simple click the icon
-  on the task bar to grab a screen shot.
+  -To make FSP screen capture easier to use, right click on “FSP screen capture.exe” and select “send shortcut to 
+  desktop. Now you can launch it from the desktop. To make it even easier drag that shortcut from the desktop to the task 
+  bar. Now you can simply click the icon on the task bar to grab a screen shot.
   
   
 Usage:
 
--To use FSP screen capture simple run the .exe for windows or the .py for linux (Windows of course can also runt he .py but python and the right libraries will need to be installed)
+-To use FSP screen capture simply run the .exe for windows or the .py for linux (Windows of course can also run the .py but python will need to be installed)
 
 -After launching FSP screen capture a command or terminal box will briefly appear indicating that it's working, normally this only stays up for about a second. 
 
