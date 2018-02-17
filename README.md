@@ -3,7 +3,7 @@ FSP-screen-capture
 
 Introduction:
 
-The goal of FSP screen capture is to provide a simple and super fast screen capture without all the hassle of selecting the capture type, file name, file location, file type or anything like that. Once FSP screen capture is setup it's literally a one button operation. If you like this app feel free to send me an mbit or whatever here: 18uTaHgmAhyNuFJnFDi7zcxXTHYtqZeAof
+The goal of FSP screen capture is to provide a simple and super fast screen capture without all the hassle of selecting the capture type, file name, file location, file type or anything like that. Once FSP screen capture is setup it's literally a one button operation. 
 
 
 Installation:
